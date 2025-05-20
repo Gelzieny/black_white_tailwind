@@ -1,6 +1,10 @@
 <h1 align="center"> 🌙 Black and White Tailwind CSS v4 <h1>
 
+
+<p align="justify">
+
 Este projeto é um exemplo de como implementar **modo escuro** (dark mode) em uma aplicação React utilizando **Tailwind CSS v4**, **TypeScript**, e **Vite** para persistência do tema.
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
