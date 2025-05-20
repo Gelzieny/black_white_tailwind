@@ -1,4 +1,4 @@
-# 🌙 Black and White Tailwind CSS v4
+<h1 align="center"> 🌙 Black and White Tailwind CSS v4 </h1>
 
 
 <p align="justify">
